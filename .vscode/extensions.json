@@ -1,4 +1,10 @@
 {
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // for coding standards and best practices.
+    "angular.ng-template", // Angular Language Service for better Angular development support.
+    "johnpapa.angular-essentials", // for additional Angular tools.
+    "eamodio.gitlens", // for insights of the project
+    "esbenp.prettier-vscode", // for code formatting
+    "formulahendry.auto-rename-tag" // for automatically rename paired HTML/XML tag
+  ]
 }
