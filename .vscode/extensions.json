@@ -5,6 +5,9 @@
     "johnpapa.angular-essentials", // for additional Angular tools.
     "eamodio.gitlens", // for insights of the project
     "esbenp.prettier-vscode", // for code formatting
-    "formulahendry.auto-rename-tag" // for automatically rename paired HTML/XML tag
+    "xabikos.JavaScriptSnippets", // Javascript Code Snippets
+    "formulahendry.auto-rename-tag", // for automatically rename paired HTML/XML tag
+    "vscode-snippet.snippet",    // Snippet for various extensions for the commonly used programming languages
+    "pranaygp.vscode-css-peek",   // CSS peek for viewing specific class or id from template
   ]
 }

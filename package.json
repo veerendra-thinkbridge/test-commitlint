@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "prepare": "husky install",
-    "commitlint": "commitlint --edit"
+    "commitlint": "echo 'Please follow the Conventional commit message format. Refer to https://www.conventionalcommits.org/ for more details.' && exit 1"
   },
   "private": true,
   "dependencies": {
