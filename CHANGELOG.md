@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.1.0...v1.2.0) (2023-12-19)
+
+
+### Features
+
+* chnage in prod fix ([4624d06](https://github.com/veerendra-thinkbridge/test-commitlint/commit/4624d0657fa9eeef24aec9eb5f29ce63ea2230ea))
+
 # [1.1.0](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.0.1...v1.1.0) (2023-12-19)
 
 
