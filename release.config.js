@@ -1,7 +1,7 @@
 const config = {
   branches: [
     "main", 
-   { name: 'prod', prerelease: 'prod' },
+   { name: 'prod', prerelease: 'prod', channel: 'beta' },
    { name: 'qa', prerelease: 'qa' },
    { name: 'dev', prerelease: 'dev' }
   ],
