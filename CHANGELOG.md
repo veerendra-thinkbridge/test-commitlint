@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.0.1...v1.1.0-dev.1) (2023-12-19)
+
+
+### Features
+
+* code in dev ([ebe5812](https://github.com/veerendra-thinkbridge/test-commitlint/commit/ebe5812906360a0574a46f3deb9066d3c132630b))
+
 ## [1.0.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.0.0...v1.0.1) (2023-12-14)
 
 
