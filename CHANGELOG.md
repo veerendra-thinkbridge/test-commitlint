@@ -1,3 +1,10 @@
+## [1.2.1-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.2.1-dev.1) (2023-12-19)
+
+
+### Bug Fixes
+
+* added list item in prod ([c425109](https://github.com/veerendra-thinkbridge/test-commitlint/commit/c42510928c726771d7a182132fae1839f1789cd4))
+
 # [1.2.0](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.1.0...v1.2.0) (2023-12-19)
 
 
