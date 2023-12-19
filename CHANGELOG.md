@@ -1,3 +1,10 @@
+# [1.1.0-dev.2](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2023-12-19)
+
+
+### Bug Fixes
+
+* added p content in dev ([812d13b](https://github.com/veerendra-thinkbridge/test-commitlint/commit/812d13bb06d63a80f86c9fad34891e184d4c126b))
+
 # [1.1.0-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.0.1...v1.1.0-dev.1) (2023-12-19)
 
 
