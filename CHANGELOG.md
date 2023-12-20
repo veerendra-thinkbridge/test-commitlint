@@ -1,3 +1,10 @@
+# [1.3.0-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.1-dev.1...v1.3.0-dev.1) (2023-12-20)
+
+
+### Features
+
+* new compont for commitlint ([b71ceb2](https://github.com/veerendra-thinkbridge/test-commitlint/commit/b71ceb2724cacfd2aad2a5abcc20035ed9b805c7))
+
 ## [1.2.1-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.2.1-dev.1) (2023-12-19)
 
 
