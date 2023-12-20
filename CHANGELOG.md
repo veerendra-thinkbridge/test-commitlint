@@ -1,3 +1,10 @@
+# [1.4.0-beta.2](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2023-12-20)
+
+
+### Bug Fixes
+
+* commit to prepod ([eb8fb62](https://github.com/veerendra-thinkbridge/test-commitlint/commit/eb8fb62a69c1f2a26482993c72075cc9d6c2af32))
+
 # [1.4.0-beta.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.3.1-beta.1...v1.4.0-beta.1) (2023-12-20)
 
 
