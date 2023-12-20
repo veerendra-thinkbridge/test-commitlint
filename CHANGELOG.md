@@ -1,3 +1,15 @@
+# [1.5.0-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.4.0...v1.5.0-dev.1) (2023-12-20)
+
+
+### Bug Fixes
+
+* more content in dev ([b5d0cd5](https://github.com/veerendra-thinkbridge/test-commitlint/commit/b5d0cd5ea4a5d7d8bd94a1bcaced817ad40d1f94))
+
+
+### Features
+
+* new compont for commitlint ([b71ceb2](https://github.com/veerendra-thinkbridge/test-commitlint/commit/b71ceb2724cacfd2aad2a5abcc20035ed9b805c7))
+
 # [1.4.0-dev.2](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2023-12-20)
 
 
