@@ -1,3 +1,10 @@
+# [1.5.0-dev.3](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.2...v1.5.0-dev.3) (2023-12-20)
+
+
+### Features
+
+* some content removed in dev branch ([f7eee62](https://github.com/veerendra-thinkbridge/test-commitlint/commit/f7eee62b9de4d1af76b706ea3c4af1c56c9df3aa))
+
 # [1.5.0-dev.2](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.1...v1.5.0-dev.2) (2023-12-20)
 
 
