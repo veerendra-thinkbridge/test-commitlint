@@ -1,3 +1,10 @@
+# [1.3.0-prod.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.1-prod.1...v1.3.0-prod.1) (2023-12-20)
+
+
+### Features
+
+* new component added ([aa210d0](https://github.com/veerendra-thinkbridge/test-commitlint/commit/aa210d0878030b4313635c838f9a1013e92a884d))
+
 ## [1.2.1-prod.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.2.1-prod.1) (2023-12-20)
 
 
