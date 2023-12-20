@@ -3,9 +3,9 @@
 
 ### Bug Fixes
 
-* fix commit for dev branch ([cf925b2](https://github.com/veerendra-thinkbridge/test-commitlint/commit/cf925b27c842e01e5b99bb48d3582f8c73658cf3))
+* commit to prepod ([eb8fb62](https://github.com/veerendra-thinkbridge/test-commitlint/commit/eb8fb62a69c1f2a26482993c72075cc9d6c2af32))
 
-# [1.5.0-dev.3](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.2...v1.5.0-dev.3) (2023-12-20)
+# [1.4.0-beta.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.3.1-beta.1...v1.4.0-beta.1) (2023-12-20)
 
 
 ### Features
