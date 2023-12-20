@@ -1,3 +1,10 @@
+# [1.5.0-dev.4](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.3...v1.5.0-dev.4) (2023-12-20)
+
+
+### Bug Fixes
+
+* fix commit for dev branch ([cf925b2](https://github.com/veerendra-thinkbridge/test-commitlint/commit/cf925b27c842e01e5b99bb48d3582f8c73658cf3))
+
 # [1.5.0-dev.3](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.2...v1.5.0-dev.3) (2023-12-20)
 
 
