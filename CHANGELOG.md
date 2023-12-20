@@ -1,3 +1,10 @@
+# [1.5.0-dev.5](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.4...v1.5.0-dev.5) (2023-12-20)
+
+
+### Bug Fixes
+
+* commit to prepod ([eb8fb62](https://github.com/veerendra-thinkbridge/test-commitlint/commit/eb8fb62a69c1f2a26482993c72075cc9d6c2af32))
+
 # [1.5.0-dev.4](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.5.0-dev.3...v1.5.0-dev.4) (2023-12-20)
 
 
