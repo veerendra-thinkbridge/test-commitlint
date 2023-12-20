@@ -6,6 +6,7 @@ on:
       - prod
       - qa
       - dev
+      - pre-prod
 jobs:
  release:
     runs-on: ubuntu-latest
