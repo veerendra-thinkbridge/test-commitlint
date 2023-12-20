@@ -1,6 +1,6 @@
 {
   "name": "test-commitlint",
-  "version": "1.5.0-dev.1",
+  "version": "1.5.0-dev.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
