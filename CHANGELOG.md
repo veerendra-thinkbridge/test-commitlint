@@ -1,3 +1,10 @@
+## [1.3.1-beta.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.3.0...v1.3.1-beta.1) (2023-12-20)
+
+
+### Bug Fixes
+
+* added heading in new comp ([5234551](https://github.com/veerendra-thinkbridge/test-commitlint/commit/523455157ea0aa69070e8ff4165402cd5159c2a9))
+
 # [1.3.0](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.3.0) (2023-12-20)
 
 
