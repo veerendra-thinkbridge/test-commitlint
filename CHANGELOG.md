@@ -1,37 +1,11 @@
-# [1.4.0-beta.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.3.1-beta.1...v1.4.0-beta.1) (2023-12-20)
+# [1.3.0-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.1-dev.1...v1.3.0-dev.1) (2023-12-20)
 
 
 ### Features
 
-* content in commit comp ([4d5695f](https://github.com/veerendra-thinkbridge/test-commitlint/commit/4d5695f5e8e8df64cb75beadf456f42f3e28424e))
+* new compont for commitlint ([b71ceb2](https://github.com/veerendra-thinkbridge/test-commitlint/commit/b71ceb2724cacfd2aad2a5abcc20035ed9b805c7))
 
-## [1.3.1-beta.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.3.0...v1.3.1-beta.1) (2023-12-20)
-
-
-### Bug Fixes
-
-* added heading in new comp ([5234551](https://github.com/veerendra-thinkbridge/test-commitlint/commit/523455157ea0aa69070e8ff4165402cd5159c2a9))
-
-# [1.3.0](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.3.0) (2023-12-20)
-
-
-### Bug Fixes
-
-* added list item in prod ([c425109](https://github.com/veerendra-thinkbridge/test-commitlint/commit/c42510928c726771d7a182132fae1839f1789cd4))
-
-
-### Features
-
-* new component added ([aa210d0](https://github.com/veerendra-thinkbridge/test-commitlint/commit/aa210d0878030b4313635c838f9a1013e92a884d))
-
-# [1.3.0-prod.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.1-prod.1...v1.3.0-prod.1) (2023-12-20)
-
-
-### Features
-
-* new component added ([aa210d0](https://github.com/veerendra-thinkbridge/test-commitlint/commit/aa210d0878030b4313635c838f9a1013e92a884d))
-
-## [1.2.1-prod.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.2.1-prod.1) (2023-12-20)
+## [1.2.1-dev.1](https://github.com/veerendra-thinkbridge/test-commitlint/compare/v1.2.0...v1.2.1-dev.1) (2023-12-19)
 
 
 ### Bug Fixes
